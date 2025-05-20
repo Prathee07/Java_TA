@@ -8,5 +8,20 @@ Regular array means example if i=classrooms and j=no of students then in regular
 ***************DAY20**************
 Control+shift+0 automatically imports everything
 2 dimensional Jagged array and 2 dimnesional arrays differnce is that just in decalartion the for loop goes same
+*****************Day 22************
+| Feature            | Arrays | LinkedList       | Collection Framework            |
+| ------------------ | ------ | ---------------- | ------------------------------- |
+| Fixed Size         | ✅      | ❌                | ❌                               |
+| Dynamic Size       | ❌      | ✅                | ✅                               |
+| Homogeneous Data   | ✅      | ✅ (via Generics) | ✅ (with Generics)               |
+| Heterogeneous Data | ❌      | ❌                | ✅ (if using `Object` type)      |
+| Contiguous Memory  | ✅      | ❌                | ✅/❌ (depends on implementation) |
+
+array declarration+ instation=array creation
+int [][]arr;
+int arr[][];
+int []arr[];
+[]int arr[]; not valid
+
 
 
