@@ -22,6 +22,26 @@ int [][]arr;
 int arr[][];
 int []arr[];
 []int arr[]; not valid
+                                                 ***************Day24************
+Strings in java is objects
+immumtable           mutable strings
+-------------------------------------
+Name                    Password
+DOB                     Gmail
+Gender                  Months of year 
+
+Strings are classified into 2 types 
+if(s1==s2)  // checks the reference variable
+if(s1.equals(s2))    //checks the values
+if(s1.equalsIgnoreCase(s2))   
+
+in heap there are different segments
+string constant pool--->without new--->duplicate not allowed
+heap segment---->with new--->duplicates allowed
+
+
+
+
 
 
 
